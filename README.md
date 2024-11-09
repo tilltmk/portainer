@@ -6,10 +6,6 @@ Dieses Repository enthält eine Sammlung von Portainer-Templates, die Ihnen helf
 
 - [Einführung](#einführung)
 - [Enthaltene Templates](#enthaltene-templates)
-- [Installation](#installation)
-- [Verwendung](#verwendung)
-- [Mitwirken](#mitwirken)
-- [Lizenz](#lizenz)
 
 ## Einführung
 
